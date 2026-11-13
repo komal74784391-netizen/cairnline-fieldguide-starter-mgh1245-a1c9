@@ -1,0 +1,46 @@
+{
+  "schema": "fieldguide-manifest/1",
+  "generated_from": "site/content",
+  "count": 3,
+  "entries": [
+    {
+      "id": "fg-authoring-guide-writing-an-entry",
+      "title": "Authoring Guide: Writing an Entry",
+      "date": "2025-10-21",
+      "tags": [
+        "guide",
+        "authoring"
+      ],
+      "author": "Cairnline Starter Team",
+      "status": "live",
+      "excerpt": "Start every entry with front matter containing title, date, tags, author and draft. Use an ISO date, list tags as a YAML sequence, and set d...",
+      "path": "content/2025-10-21-authoring-guide-writing-an-entry.md"
+    },
+    {
+      "id": "fg-glossary-of-fieldguide-terms",
+      "title": "A Glossary of Fieldguide Terms",
+      "date": "2025-09-03",
+      "tags": [
+        "reference",
+        "meta"
+      ],
+      "author": "Cairnline Starter Team",
+      "status": "live",
+      "excerpt": "We use a small vocabulary across the kit. An entry is a single Markdown file in the content folder. Front matter is the block between the op...",
+      "path": "content/2025-09-03-glossary-of-fieldguide-terms.md"
+    },
+    {
+      "id": "fg-welcome-to-the-fieldguide",
+      "title": "Welcome to the Fieldguide Starter Kit",
+      "date": "2025-08-12",
+      "tags": [
+        "meta",
+        "getting-started"
+      ],
+      "author": "Cairnline Starter Team",
+      "status": "live",
+      "excerpt": "This starter kit gives you everything you need to launch a content-driven field guide: a tiny static site, a Markdown-first content folder,...",
+      "path": "content/2025-08-12-welcome-to-the-fieldguide.md"
+    }
+  ]
+}
